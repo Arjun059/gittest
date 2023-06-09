@@ -1,9 +1,0 @@
-git init   
-
-git clone  <path of repo>
-
- 
-git  branch    => show all branchs and current branch 
-git checkout -b <branchname>  => create new branch and swich in 
-git checkout  <branchname>     => shwich to branch 
-git branch -d  <branchname>    => delet branch
